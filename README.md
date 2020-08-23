@@ -3,7 +3,7 @@
 Business card application made with Fl=utter
 
 ![Image of the App]
-(https://github.com/felipe349/flutter_businnes_card/blob/master/images/app_preview.png)
+(https://raw.githubusercontent.com/felipe349/flutter_businnes_card/master/images/app_preview.png)
 
 
 ## Getting Started
