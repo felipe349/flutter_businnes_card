@@ -1,4 +1,4 @@
-# i_am_developer
+# Businnes Card
 
 Business card application made with Flutter
 
