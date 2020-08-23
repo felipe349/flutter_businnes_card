@@ -1,6 +1,6 @@
 # i_am_developer
 
-Business card application made with Fl=utter
+Business card application made with Flutter
 
 ![Businnes Card App](https://raw.githubusercontent.com/felipe349/flutter_businnes_card/master/images/app_preview.png)
 
